@@ -1,1 +1,2 @@
-# Prog1
+# Prog1: Scratch projekt
+
